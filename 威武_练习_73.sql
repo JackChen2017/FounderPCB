@@ -1,0 +1,32 @@
+--绩效考核系统   数据库表
+
+select *from dbo.ACCOUNT
+select *from dbo.COMPANY
+select *from dbo.COMPLETERATE
+select *from dbo.DEPARTMENT
+select *from dbo.EMPLOYEE
+select *from dbo.EMPLOYEE_COMPLAINT
+select *from dbo.EMPLOYEE_EXAMINE
+select *from dbo.EMPLOYEE_KPI
+select *from dbo.EMPLOYEE_PROCESS
+select *from dbo.EXAMINE
+select *from dbo.EXAMINE_ADJUST
+select *from dbo.EXAMINE_DATA
+select *from dbo.EXAMINE_ITEM
+select *from dbo.EXAMINEGROUP
+select *from dbo.EXAMINEGROUP_ITEM
+select *from dbo.EXPRESSION
+select *from dbo.GROUP_PROGRAM
+select *from dbo.IMPORT_KPIDATA
+select *from dbo.IMPORT_ZMLDATA
+select *from dbo.POSITION
+select *from dbo.PROCESS
+select *from dbo.PROGRAM
+select *from dbo.TmpMainSet
+select *from dbo.TmpMainSetAB
+select *from dbo.USER_DEPARTMENT
+select *from dbo.USER_PROCESS
+select *from dbo.USER_PROGRAM
+select *from dbo.USERGROUP
+select *from dbo.USERINFO
+select *from dbo.WEIGHTEDSCORE
